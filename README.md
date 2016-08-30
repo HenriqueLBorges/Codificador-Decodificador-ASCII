@@ -1,4 +1,4 @@
-# Codificador-Decodificador-ASCII
+# Codificador-Decodificador-ASCII / ASCII Encoder
 Codificador e Decodificador ASCII
 ASCII Encoder
 - Capaz de abrir um arquivo .txt, converter seu conteúdo para ASCII e salvar novamente. Ou então realizar a operação inversa.
